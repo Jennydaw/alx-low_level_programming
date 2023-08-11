@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 
 /**
 * main - A program with printf function
