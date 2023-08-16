@@ -1,20 +1,15 @@
 #include "main.h"
-
 /**
-* _abs - prints  absolute value of a number
-*@c: number targeted
-*Return: Absolute value of number or zero
+* _abs - prints the absolute value of a number
+*@i: number targeted
+*Return: returns 0
 */
-
-int _abs(int c)
-
+int _abs(int i)
 {
-        if (c < 0)
-	{
-	int abs_val;
-
-        abs_val = c * -1;
-        return (abs_val);
-	}
-        return (c);
+if (i > 0)
+return (i);
+else if (i < 0)
+return (-i);
+else
+return (0);
 }
