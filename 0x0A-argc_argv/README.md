@@ -1,4 +1,4 @@
-C - argc, argv
+0x0A. C - argc, argv
 
 0. It ain't what they call you, it's what you answer to
 
@@ -23,5 +23,3 @@ Write a program that adds positive numbers.
 5. Minimal Number of Coins for Change
 
 Write a program that prints the minimum number of coins to make change for an amount of money.
-
-
